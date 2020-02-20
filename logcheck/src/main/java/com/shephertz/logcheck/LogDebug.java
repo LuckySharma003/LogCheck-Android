@@ -9,6 +9,5 @@ public class LogDebug {
     public static void checkLog(String log)
     {
         Log.e(TAG,log);
-            
     }
 }
